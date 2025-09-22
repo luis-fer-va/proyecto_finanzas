@@ -15,3 +15,7 @@ proyecto_finanzas/
 │   └── __pycache__/                # Carpeta de caché, que debes ignorar en Git
 └── README.md
 ```
+# Objetivo
+Transformar el modelo de datos de finanzas personales con el fin de obtener un control total sobre el flujo de dinero. 
+Mediante esta optimización, se busca no solo facilitar el ingreso de datos, sino también empoderar la toma de decisiones,
+permitiendo identificar patrones de gasto, detectar oportunidades de ahorro y accionar planes financieros de manera efectiva.
